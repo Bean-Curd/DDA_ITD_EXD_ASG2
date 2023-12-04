@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1059621230047",
+    "firebase_url": "https://dda-firebase-db6ca-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dda-firebase-db6ca",
+    "storage_bucket": "dda-firebase-db6ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059621230047:android:e923192a56a1efaeaa606a",
+        "android_client_info": {
+          "package_name": "com.DDAITDEXDASG2.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ_mnF1JW9JC8ng8D0lXs2YZijUJLk0JQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059621230047:android:e27082de58ab91a6aa606a",
+        "android_client_info": {
+          "package_name": "com.UnityTechnologies.com.unity.template.urpblank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ_mnF1JW9JC8ng8D0lXs2YZijUJLk0JQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059621230047:android:57f442df8b16a561aa606a",
+        "android_client_info": {
+          "package_name": "com.google.firebase.beancurd.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ_mnF1JW9JC8ng8D0lXs2YZijUJLk0JQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
